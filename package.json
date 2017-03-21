@@ -1,10 +1,10 @@
 {
-  "name": "react-railsy-routes",
+  "name": "react-railish-routes",
   "version": "1.0.0",
   "description": "A simple library to integrate ruby-on-rails type of configurations for react-router.",
   "main": "index.js",
   "repository": {
-    "url": "https://github.com/therealedsheenan/react-railsy-routes.git",
+    "url": "https://github.com/therealedsheenan/react-railish-routes.git",
     "type": "git"
   },
   "author": "Sheenan Tenepre <sheenantenepre@gmail.com>",
